@@ -11,7 +11,7 @@
 
 <div class="container center-contents">
     <div class="row">
-        <form class="form-signin" method="post" action="/login">
+        <form class="form-signin" method="post" th:action="@{/login}">
             <h1 class="h3 mb-3 font-weight-normal"> 로그인 </h1>
             <label for="username" class="sr-only">로그인 아이디</label>
             <input id="username"
@@ -32,7 +32,7 @@
                 </label>
             </div>
             <button class="btn btn-lg btn-primary btn-block"  type="submit"> 로그인 </button>
-            <div class="error-message" th:if="${loginError}">
+            <div class="error-message" th:if="${param.error}">
                 <span> 아이디나 패스워드가 올바르지 않습니다. </span>
             </div>
         </form>

@@ -1,0 +1,26 @@
+Index: server/basic-test/src/main/java/com/sp/fc/web/config/SecurityConfig.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.sp.fc.web.config;\r\n\r\nimport org.springframework.context.annotation.Bean;\r\nimport org.springframework.context.annotation.Configuration;\r\nimport org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;\r\nimport org.springframework.security.config.annotation.web.builders.HttpSecurity;\r\nimport org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;\r\nimport org.springframework.security.core.userdetails.User;\r\nimport org.springframework.security.core.userdetails.UserDetails;\r\nimport org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;\r\nimport org.springframework.security.crypto.password.PasswordEncoder;\r\nimport org.springframework.security.provisioning.InMemoryUserDetailsManager;\r\nimport org.springframework.security.web.SecurityFilterChain;\r\n\r\nimport java.util.ArrayList;\r\nimport java.util.List;\r\n\r\n@Configuration\r\n@EnableWebSecurity(debug = true)\r\n@EnableGlobalMethodSecurity(prePostEnabled = true) // PrePost로 권한 체크 시작\r\npublic class SecurityConfig{\r\n\r\n    // void configure(AuthenticationManagerBuilder auth) --> InMemoryUserDetailsManager()\r\n    @Bean\r\n    public InMemoryUserDetailsManager inMemoryUserDetailsManager() {\r\n        List<UserDetails> userDetailsList = new ArrayList<>();\r\n        userDetailsList.add(User.builder()\r\n                        .username(\"user2\")\r\n                        .password(passwordEncoder().encode(\"2222\"))\r\n                        .roles(\"USER\")\r\n                        .build());\r\n\r\n        userDetailsList.add((User.builder()\r\n                        .username(\"admin\")\r\n                        .password(passwordEncoder().encode(\"0000\")))\r\n                        .roles(\"ADMIN\")\r\n                        .build());\r\n\r\n        return new InMemoryUserDetailsManager(userDetailsList);\r\n    }\r\n\r\n    // WebSecurityConfigurerAdapter/ HttpSecurity --> SecurityFilterChain(Bean 등록)\r\n    // Chain으로 연결된 filter들 사이사이에 만든 filter를 껴넣는 method\r\n    @Bean\r\n    public SecurityFilterChain filterChain(HttpSecurity http) throws Exception{\r\n        http.authorizeRequests((requsts) ->\r\n                requsts.antMatchers(\"/\").permitAll() // home 접근 허용\r\n                        .anyRequest().authenticated() // 그 외 허용 x\r\n        );\r\n\r\n        http.formLogin();\r\n        http.httpBasic();\r\n\r\n        return http.build();\r\n    }\r\n\r\n    @Bean\r\n    public PasswordEncoder passwordEncoder(){\r\n        return new BCryptPasswordEncoder();\r\n    }\r\n\r\n\r\n\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/server/basic-test/src/main/java/com/sp/fc/web/config/SecurityConfig.java b/server/basic-test/src/main/java/com/sp/fc/web/config/SecurityConfig.java
+--- a/server/basic-test/src/main/java/com/sp/fc/web/config/SecurityConfig.java	
++++ b/server/basic-test/src/main/java/com/sp/fc/web/config/SecurityConfig.java	
+@@ -24,6 +24,7 @@
+     @Bean
+     public InMemoryUserDetailsManager inMemoryUserDetailsManager() {
+         List<UserDetails> userDetailsList = new ArrayList<>();
++
+         userDetailsList.add(User.builder()
+                         .username("user2")
+                         .password(passwordEncoder().encode("2222"))
+@@ -59,6 +60,4 @@
+         return new BCryptPasswordEncoder();
+     }
+ 
+-
+-
+ }
+\ No newline at end of file
