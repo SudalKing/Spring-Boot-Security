@@ -1,4 +1,5 @@
-
+// web-common.gradle 의 설정을 받아옴
+apply from: "../web-common.gradle"
 
 dependencies {
 
