@@ -69,7 +69,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         web.ignoring()
                 .requestMatchers(
                         PathRequest.toStaticResources().atCommonLocations(),
-                        PathRequest.toH2Console()
+                        PathRequest.toH2Console()// h2 console을 열어줌
                 )
         ;
     }

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7d93f61-1382-4181-97d1-66c0367b178f" name="Changes" comment="UserDetails">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18__10_35__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18__10_36__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18__10_37__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18__10_48__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18__10_48__Changes_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18__9_05__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_35_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_36_[Changes]/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_36_[Changes]/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_36_[Changes]/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_36_[Changes]/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_36_[Changes]/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_36_[Changes]/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_36_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_37_[Changes]/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_37_[Changes]/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_37_[Changes]/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_37_[Changes]/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_37_[Changes]/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_37_[Changes]/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_37_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]1/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]1/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]1/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]1/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]1/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]1/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_48_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_9_05_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_9_05_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/common-utils/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/classes/java/main/com/sp/fc/user/domain/SpAuthority$SpAuthorityBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/classes/java/main/com/sp/fc/user/domain/SpAuthority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/classes/java/main/com/sp/fc/user/domain/SpUser$SpUserBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/classes/java/main/com/sp/fc/user/domain/SpUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/classes/java/main/com/sp/fc/user/repository/SpUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/classes/java/main/com/sp/fc/user/service/SpUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/libs/comp-user-admin-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comp/user-admin/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-authentication-test/build/classes/java/main/com/sp/fc/web/BasicAuthentionTestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-authentication-test/build/classes/java/main/com/sp/fc/web/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-authentication-test/build/classes/java/main/com/sp/fc/web/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-authentication-test/build/classes/java/test/com/sp/fc/web/BasicAuthenticationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-authentication-test/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-authentication-test/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-authentication-test/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-test/build/classes/java/main/com/sp/fc/web/BasicSecurityTestApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-test/build/classes/java/main/com/sp/fc/web/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-test/build/classes/java/main/com/sp/fc/web/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-test/build/classes/java/main/com/sp/fc/web/controller/SecurityMessage$SecurityMessageBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-test/build/classes/java/main/com/sp/fc/web/controller/SecurityMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/basic-test/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-basic/build/classes/java/main/com/sp/fc/web/LoginBasicApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-basic/build/classes/java/main/com/sp/fc/web/config/CustomAuthDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-basic/build/classes/java/main/com/sp/fc/web/config/RequestInfo$RequestInfoBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-basic/build/classes/java/main/com/sp/fc/web/config/RequestInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-basic/build/classes/java/main/com/sp/fc/web/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-basic/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-basic/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-custom-filter/build/classes/java/main/com/sp/fc/web/CustomLoginApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-custom-filter/build/classes/java/main/com/sp/fc/web/config/CustomLoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-custom-filter/build/classes/java/main/com/sp/fc/web/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-custom-filter/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-custom-filter/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/classes/java/main/com/sp/fc/web/MultiChainProxyApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/classes/java/main/com/sp/fc/web/config/CustomLoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/classes/java/main/com/sp/fc/web/config/MobSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/classes/java/main/com/sp/fc/web/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/classes/java/test/com/sp/fc/web/MultiChainProxyTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/classes/java/test/com/sp/fc/web/MultiChainProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-multi-chain/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-userdetails/build/bootJarMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-userdetails/build/classes/java/main/com/sp/fc/web/UserDetailsTestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-userdetails/build/classes/java/main/com/sp/fc/web/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-userdetails/build/libs/server-login-userdetails-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-userdetails/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-userdetails/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/login-userdetails/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/controller/MobTeacherController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/controller/TeacherController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/student/Student$StudentBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/student/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/student/StudentAuthenticationToken$StudentAuthenticationTokenBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/student/StudentAuthenticationToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/student/StudentManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/teacher/Teacher$TeacherBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/teacher/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/teacher/TeacherAuthenticationToken$TeacherAuthenticationTokenBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/teacher/TeacherAuthenticationToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/classes/java/main/com/sp/fc/web/teacher/TeacherManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/libs/web-student-teacher-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/templates/AccessDenied.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/templates/StudentMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/templates/TeacherMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/templates/loginForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student-teacher/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/classes/java/main/com/sp/fc/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/libs/web-user-admin-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/templates/UserPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/user-admin/src/main/resources/templates/loginForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/java/com/sp/fc/web/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/user-admin/src/main/java/com/sp/fc/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/login-basic/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_35_[Changes]/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_35_[Changes]/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_35_[Changes]/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_35_[Changes]/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_35_[Changes]/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-18_오후_10_35_[Changes]/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/css/intro.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/static/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/student-teacher/build/resources/main/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/static/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/templates/AccessDenied.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/templates/AccessDenied.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/templates/AdminPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/templates/AdminPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/templates/UserPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/templates/UserPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-basic/src/main/resources/templates/loginForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/user-admin/build/resources/main/templates/loginForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/login-userdetails/src/main/java/com/sp/fc/web/UserDetailsTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/login-userdetails/src/main/java/com/sp/fc/web/UserDetailsTestApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/server/login-userdetails">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunManager" selected="Spring Boot.UserDetailsTestApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="sp-fastcampus-spring-sec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="sp-fastcampus-spring-sec" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicAuthentionTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp-fastcampus-spring-sec.server-basic-authentication-test.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sp.fc.web.BasicAuthentionTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicSecurityTestApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp-fastcampus-spring-sec.server-basic-test.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sp.fc.web.BasicSecurityTestApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomLoginApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp-fastcampus-spring-sec.server-login-custom-filter.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sp.fc.web.CustomLoginApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginBasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp-fastcampus-spring-sec.server-login-basic.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sp.fc.web.LoginBasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiChainProxyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp-fastcampus-spring-sec.server-login-multi-chain.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sp.fc.web.MultiChainProxyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDetailsTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp-fastcampus-spring-sec.server-login-userdetails.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sp.fc.web.UserDetailsTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.UserDetailsTestApplication" />
+      <item itemvalue="Spring Boot.BasicAuthentionTestApplication" />
+      <item itemvalue="Spring Boot.MultiChainProxyApplication" />
+      <item itemvalue="Spring Boot.BasicSecurityTestApp" />
+      <item itemvalue="Spring Boot.CustomLoginApp" />
+      <item itemvalue="Spring Boot.LoginBasicApplication" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UserDetails" />
+    <option name="LAST_COMMIT_MESSAGE" value="UserDetails" />
+  </component>
+</project>
